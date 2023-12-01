@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color:forestgreen
+}
+
+p{
+    text-align: center;
+    color:navy
+}
+
+body{
+    background-color: bisque
+}
+
+.box{
+    margin: 4rem 20rem 4rem 20rem;
+    padding: 4rem;
+    border: 3px pink;
+    background-color: #DDD;
